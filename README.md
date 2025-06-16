@@ -78,6 +78,6 @@ Mitwirken
 Wir freuen uns über Beiträge zur Verbesserung der Musiker App! Wenn du Ideen hast oder Fehler findest, öffne bitte ein Issue oder sende einen Pull Request.
 Lizenz
 
-Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details findest du in der LICENSE-Datei (falls vorhanden, ansonsten sollte sie hinzugefügt werden).
+Dieses Projekt ist unter der MIT-Lizenz lizenziert. Weitere Details findest du in der LICENSE-Datei.
 
 Vielen Dank, dass du dir die Musiker App ansiehst!
